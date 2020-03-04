@@ -1,2 +1,1 @@
-# FlashProjector
-Adobe Flash Projector
+# Adobe Flash Projector
